@@ -3,3 +3,5 @@
 Dataset : Churn_Modelling.csv <br/>
 Number of records: 10,000<br/>
 Number of features: 14<br/>
+
+Libraries used: pandas, matplotlib,numpy, seaborn
